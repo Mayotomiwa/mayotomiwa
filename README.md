@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced NestJS patterns and microservices architecture. DevOps and containerization with Docker/Kubernetes for scalable deployments.**
 
-- 👯 I’m looking to collaborate on **Open-source projects in React.js, Vue.js, or full-stack SaaS applications. Innovative solutions that combine frontend interactivity with backend efficiency.**
+- 👯 I’m looking to collaborate on **Open-source projects in React.js, Vue.js, React Native or full-stack SaaS applications. Innovative solutions that combine frontend interactivity with backend efficiency.**
 
 - 🤝 I’m looking for help with **Exploring advanced DevOps pipelines for full-stack projects.**
 
