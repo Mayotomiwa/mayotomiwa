@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Exploring advanced DevOps pipelines for full-stack projects.**
 
-- 💬 Ask me about **System design, architectural patterns, NestJS systems, full-stack architecture, and building scalable applications.**
+- 💬 Ask me about **System design, architectural patterns, and systems, full-stack architecture, and building scalable applications.**
 
 - 📫 How to reach me **Email: Oluseyimayotomiwa@gmail.com, LinkedIn: linkedin.com/in/oluseyimayotomiwa**
 
