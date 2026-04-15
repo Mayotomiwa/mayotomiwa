@@ -41,6 +41,5 @@ Contributor to the Aden open-source codebase, focused on AI workflow design and 
 ### Connect
 
 oluseyimayotomiwa@gmail.com
-[LinkedIn](https://linkedin.com/in/oluseyimayotomiwa) · [Twitter](https://twitter.com/seyi_mayotomiwa) · [Medium](https://medium.com/@oluseyimayotomiwa) · [Resume](https://app.enhancv.com/share/1769b899)
+[LinkedIn](https://linkedin.com/in/oluseyimayotomiwa) · [Twitter](https://twitter.com/seyi_mayotomiwa) · [Medium](https://medium.com/@oluseyimayotomiwa)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mayotomiwa&layout=compact&theme=default)
