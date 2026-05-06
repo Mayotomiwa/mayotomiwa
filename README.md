@@ -11,9 +11,9 @@
 
 | Metric | Value |
 |--------|-------|
-| Users served | 50,000+ |
+| Users served | 150,000+ |
 | Test coverage | 85% |
-| Performance gains | up to 63% |
+| Performance gains | up to 73% |
 | Years experience | 5+ |
 
 ---
@@ -31,7 +31,7 @@
 ### Open source
 
 **React Native notification package**
-A notification utility package for React Native — used by 1,000+ developers.
+A notification utility package for React Native used by 4,000+ developers.
 
 **Aden — AI workflows & automation**
 Contributor to the Aden open-source codebase, focused on AI workflow design and automation systems.
